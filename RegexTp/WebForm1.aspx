@@ -42,6 +42,7 @@
             <br />
             <asp:Label ID="lbl_courriel_desabo" runat="server" Text="Courriel : " Font-Bold="True"></asp:Label>
             <asp:TextBox ID="txt_courriel_desabo" runat="server"></asp:TextBox>
+            <asp:Button ID="btn_desabo" runat="server" Text="Me desabonner" />
         </div>
     </form>
 </body>
